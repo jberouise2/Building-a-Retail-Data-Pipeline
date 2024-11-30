@@ -56,4 +56,4 @@ Finally, you should save the `clean_data` and `agg_data` as the csv files.
 It is recommended to use `pandas` for this project. 
 
 # `Solution`
-[notebook_solution](https://github.com/jberouise2/Building-a-Retail-Data-Pipeline/blob/a3e0812fe09c7b7082b2bd5f03bc4e1ce6fa1003/notebook.ipynb)
+[python_solution](https://github.com/jberouise2/Building-a-Retail-Data-Pipeline/blob/a3e0812fe09c7b7082b2bd5f03bc4e1ce6fa1003/notebook.ipynb)
